@@ -1,0 +1,9 @@
+$ node --version
+v20.11.1
+
+$ npm --version
+1.3.21
+
+$ git clone https://github.com/ORG/PROJECT.git
+$ cd PROJECT
+$ npm install
