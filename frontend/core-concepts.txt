@@ -16,7 +16,6 @@ Classes and inheritance
 
 Promises and async/await
 
-
 Angular Components
 Templates in Angular
 Directives
