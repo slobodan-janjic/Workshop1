@@ -1,0 +1,25 @@
+These core concepts include:
+
+The DOM (Document Object Model)
+
+Variables and data types (let, const, number, string, boolean, etc.)
+
+Arrays and objects (bracket notation, dot notation, destructuring, etc.)
+
+Functions and arrow functions
+
+Template literals
+
+Modules and imports/exports
+
+Classes and inheritance
+
+Promises and async/await
+
+
+Angular Components
+Templates in Angular
+Directives
+Dependency Injection
+
+https://angular.io/docs
