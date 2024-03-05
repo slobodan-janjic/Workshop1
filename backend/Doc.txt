@@ -19,14 +19,14 @@ Add the necessary dependencies to your project. For JPA, you typically need the 
 <dependency>
     <groupId>org.hibernate</groupId>
     <artifactId>hibernate-core</artifactId>
-    <version>5.6.0.Final</version> <!-- Check for the latest version -->
+    <version>5.4.0</version> <!-- Check for the latest version -->
 </dependency>
 
 <!-- Database Driver (e.g., MySQL) -->
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.23</version> <!-- Check for the latest version -->
+    <version>8.0.0</version> <!-- Check for the latest version -->
 </dependency>
 
 Step 3: Configure Persistence.xml
