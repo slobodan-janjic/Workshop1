@@ -38,5 +38,3 @@ Make sure to replace placeholders like YourPersistenceUnit, com.example.YourEnti
 Step 4: Create Entity Classes
 
 Create Java classes annotated with JPA annotations to represent your database tables.
-
-SpringBoot project
